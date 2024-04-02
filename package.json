@@ -1,6 +1,6 @@
 {
   "name": "jdbc",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "description": "Node Module JDBC wrapper",
   "main": "index.js",
   "dependencies": {
@@ -8,7 +8,8 @@
     "java": "^0.14.0",
     "lodash": "4.17.21",
     "uuid": "9.0.0",
-    "winston": "3.8.2"
+    "winston": "3.8.2",
+"@npmcli/agent": "2.2.1"
   },
   "devDependencies": {
     "jshint": "2.13.6",
